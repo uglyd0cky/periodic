@@ -1,0 +1,812 @@
+C:\Users\Luís Fernando\Desktop\Trabalho C#\Trab2Bim\Trab2Bim\bin\Debug\Trab2Bim.exe.config
+C:\Users\Luís Fernando\Desktop\Trabalho C#\Trab2Bim\Trab2Bim\bin\Debug\Trab2Bim.exe
+C:\Users\Luís Fernando\Desktop\Trabalho C#\Trab2Bim\Trab2Bim\bin\Debug\Trab2Bim.pdb
+C:\Users\Luís Fernando\Desktop\Trabalho C#\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.csprojAssemblyReference.cache
+C:\Users\Luís Fernando\Desktop\Trabalho C#\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.frmSplashScreen.resources
+C:\Users\Luís Fernando\Desktop\Trabalho C#\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.Properties.Resources.resources
+C:\Users\Luís Fernando\Desktop\Trabalho C#\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.csproj.GenerateResource.cache
+C:\Users\Luís Fernando\Desktop\Trabalho C#\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.csproj.CoreCompileInputs.cache
+C:\Users\Luís Fernando\Desktop\Trabalho C#\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.exe
+C:\Users\Luís Fernando\Desktop\Trabalho C#\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.pdb
+C:\Users\Luís Fernando\Desktop\Trabalho C#\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.frmLogin.resources
+C:\Users\Luís Fernando\Desktop\Trabalho C#\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.frmMenu.resources
+C:\Users\Luís Fernando\Desktop\Bagunça p C#\Trabalho C#\Trab2Bim\Trab2Bim\bin\Debug\Trab2Bim.exe.config
+C:\Users\Luís Fernando\Desktop\Bagunça p C#\Trabalho C#\Trab2Bim\Trab2Bim\bin\Debug\Trab2Bim.exe
+C:\Users\Luís Fernando\Desktop\Bagunça p C#\Trabalho C#\Trab2Bim\Trab2Bim\bin\Debug\Trab2Bim.pdb
+C:\Users\Luís Fernando\Desktop\Bagunça p C#\Trabalho C#\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.csprojAssemblyReference.cache
+C:\Users\Luís Fernando\Desktop\Bagunça p C#\Trabalho C#\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.frmLogin.resources
+C:\Users\Luís Fernando\Desktop\Bagunça p C#\Trabalho C#\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.frmMenu.resources
+C:\Users\Luís Fernando\Desktop\Bagunça p C#\Trabalho C#\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.frmSplashScreen.resources
+C:\Users\Luís Fernando\Desktop\Bagunça p C#\Trabalho C#\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.Properties.Resources.resources
+C:\Users\Luís Fernando\Desktop\Bagunça p C#\Trabalho C#\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.csproj.GenerateResource.cache
+C:\Users\Luís Fernando\Desktop\Bagunça p C#\Trabalho C#\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.csproj.CoreCompileInputs.cache
+C:\Users\Luís Fernando\Desktop\Bagunça p C#\Trabalho C#\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.exe
+C:\Users\Luís Fernando\Desktop\Bagunça p C#\Trabalho C#\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.pdb
+G:\Proteção\Proteção\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.csprojAssemblyReference.cache
+G:\Proteção\Proteção\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.exe
+G:\Proteção\Proteção\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.pdb
+G:\Proteção\Proteção\CTI_2019\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.csprojAssemblyReference.cache
+G:\Proteção\Proteção\CTI_2019\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.exe
+G:\Proteção\Proteção\CTI_2019\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.pdb
+G:\Proteção\Proteção\CTI_2019\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.frmLogin.resources
+G:\Proteção\Proteção\CTI_2019\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.frmMenu.resources
+G:\Proteção\Proteção\CTI_2019\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.frmSplashScreen.resources
+G:\Proteção\Proteção\CTI_2019\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.csproj.GenerateResource.cache
+E:\Proteção\Proteção\CTI_2019\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.csprojAssemblyReference.cache
+E:\Proteção\Proteção\CTI_2019\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.frmLogin.resources
+E:\Proteção\Proteção\CTI_2019\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.frmMenu.resources
+E:\Proteção\Proteção\CTI_2019\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.frmSplashScreen.resources
+E:\Proteção\Proteção\CTI_2019\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.csproj.GenerateResource.cache
+E:\Proteção\Proteção\CTI_2019\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.exe
+E:\Proteção\Proteção\CTI_2019\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.pdb
+E:\Proteção\Proteção\CTI_2019\Trab2Bim\Trab2Bim\bin\Debug\Trab2Bim.exe.config
+E:\Proteção\Proteção\CTI_2019\Trab2Bim\Trab2Bim\bin\Debug\Trab2Bim.exe
+E:\Proteção\Proteção\CTI_2019\Trab2Bim\Trab2Bim\bin\Debug\Trab2Bim.pdb
+E:\Proteção\Proteção\CTI_2019\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.Properties.Resources.resources
+E:\Proteção\Proteção\CTI_2019\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.csproj.CoreCompileInputs.cache
+G:\Proteção\Proteção\CTI_2019\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.frmJogo.resources
+G:\Proteção\Proteção\CTI_2019\Trab2Bim\Trab2Bim\bin\Debug\Trab2Bim.exe.config
+G:\Proteção\Proteção\CTI_2019\Trab2Bim\Trab2Bim\bin\Debug\Trab2Bim.exe
+G:\Proteção\Proteção\CTI_2019\Trab2Bim\Trab2Bim\bin\Debug\Trab2Bim.pdb
+G:\Proteção\Proteção\CTI_2019\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.Properties.Resources.resources
+G:\Proteção\Proteção\CTI_2019\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.csproj.CoreCompileInputs.cache
+C:\Users\ra1857040\Desktop\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.csprojAssemblyReference.cache
+C:\Users\ra1857040\Desktop\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.frmJogo.resources
+C:\Users\ra1857040\Desktop\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.frmLogin.resources
+C:\Users\ra1857040\Desktop\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.frmMenu.resources
+C:\Users\ra1857040\Desktop\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.frmSplashScreen.resources
+C:\Users\ra1857040\Desktop\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.Properties.Resources.resources
+C:\Users\ra1857040\Desktop\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.csproj.GenerateResource.cache
+C:\Users\ra1857040\Desktop\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.csproj.CoreCompileInputs.cache
+C:\Users\ra1857040\Desktop\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.exe
+C:\Users\ra1857040\Desktop\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.pdb
+C:\Users\ra1857040\Desktop\Trab2Bim\Trab2Bim\bin\Debug\Trab2Bim.exe.config
+C:\Users\ra1857040\Desktop\Trab2Bim\Trab2Bim\bin\Debug\Trab2Bim.exe
+C:\Users\ra1857040\Desktop\Trab2Bim\Trab2Bim\bin\Debug\Trab2Bim.pdb
+D:\Documentos\Desktop\Trab2Bim\Trab2Bim\bin\Debug\Trab2Bim.exe.config
+D:\Documentos\Desktop\Trab2Bim\Trab2Bim\bin\Debug\Trab2Bim.exe
+D:\Documentos\Desktop\Trab2Bim\Trab2Bim\bin\Debug\Trab2Bim.pdb
+D:\Documentos\Desktop\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.csprojAssemblyReference.cache
+D:\Documentos\Desktop\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.frmJogo.resources
+D:\Documentos\Desktop\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.frmLogin.resources
+D:\Documentos\Desktop\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.frmMenu.resources
+D:\Documentos\Desktop\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.frmSplashScreen.resources
+D:\Documentos\Desktop\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.Properties.Resources.resources
+D:\Documentos\Desktop\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.csproj.GenerateResource.cache
+D:\Documentos\Desktop\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.csproj.CoreCompileInputs.cache
+D:\Documentos\Desktop\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.exe
+D:\Documentos\Desktop\Trab2Bim\Trab2Bim\obj\Debug\Trab2Bim.pdb
+E:\Proteção\Proteção\CTI_2019\C#\Trab2Bim_atualizado\Trab2Bim\bin\Debug\Trab2Bim.exe.config
+E:\Proteção\Proteção\CTI_2019\C#\Trab2Bim_atualizado\Trab2Bim\bin\Debug\Trab2Bim.exe
+E:\Proteção\Proteção\CTI_2019\C#\Trab2Bim_atualizado\Trab2Bim\bin\Debug\Trab2Bim.pdb
+E:\Proteção\Proteção\CTI_2019\C#\Trab2Bim_atualizado\Trab2Bim\obj\Debug\Trab2Bim.csprojAssemblyReference.cache
+E:\Proteção\Proteção\CTI_2019\C#\Trab2Bim_atualizado\Trab2Bim\obj\Debug\Trab2Bim.frmJogo.resources
+E:\Proteção\Proteção\CTI_2019\C#\Trab2Bim_atualizado\Trab2Bim\obj\Debug\Trab2Bim.frmLogin.resources
+E:\Proteção\Proteção\CTI_2019\C#\Trab2Bim_atualizado\Trab2Bim\obj\Debug\Trab2Bim.frmMenu.resources
+E:\Proteção\Proteção\CTI_2019\C#\Trab2Bim_atualizado\Trab2Bim\obj\Debug\Trab2Bim.frmSplashScreen.resources
+E:\Proteção\Proteção\CTI_2019\C#\Trab2Bim_atualizado\Trab2Bim\obj\Debug\Trab2Bim.Properties.Resources.resources
+E:\Proteção\Proteção\CTI_2019\C#\Trab2Bim_atualizado\Trab2Bim\obj\Debug\Trab2Bim.csproj.GenerateResource.cache
+E:\Proteção\Proteção\CTI_2019\C#\Trab2Bim_atualizado\Trab2Bim\obj\Debug\Trab2Bim.csproj.CoreCompileInputs.cache
+E:\Proteção\Proteção\CTI_2019\C#\Trab2Bim_atualizado\Trab2Bim\obj\Debug\Trab2Bim.exe
+E:\Proteção\Proteção\CTI_2019\C#\Trab2Bim_atualizado\Trab2Bim\obj\Debug\Trab2Bim.pdb
+C:\Users\ra1857029\Desktop\Trab2Bim_atualizado\Trab2Bim\bin\Debug\Trab2Bim.exe.config
+C:\Users\ra1857029\Desktop\Trab2Bim_atualizado\Trab2Bim\bin\Debug\Trab2Bim.exe
+C:\Users\ra1857029\Desktop\Trab2Bim_atualizado\Trab2Bim\bin\Debug\Trab2Bim.pdb
+C:\Users\ra1857029\Desktop\Trab2Bim_atualizado\Trab2Bim\obj\Debug\Trab2Bim.csprojAssemblyReference.cache
+C:\Users\ra1857029\Desktop\Trab2Bim_atualizado\Trab2Bim\obj\Debug\Trab2Bim.frmJogo.resources
+C:\Users\ra1857029\Desktop\Trab2Bim_atualizado\Trab2Bim\obj\Debug\Trab2Bim.frmLogin.resources
+C:\Users\ra1857029\Desktop\Trab2Bim_atualizado\Trab2Bim\obj\Debug\Trab2Bim.frmMenu.resources
+C:\Users\ra1857029\Desktop\Trab2Bim_atualizado\Trab2Bim\obj\Debug\Trab2Bim.frmSplashScreen.resources
+C:\Users\ra1857029\Desktop\Trab2Bim_atualizado\Trab2Bim\obj\Debug\Trab2Bim.Properties.Resources.resources
+C:\Users\ra1857029\Desktop\Trab2Bim_atualizado\Trab2Bim\obj\Debug\Trab2Bim.csproj.GenerateResource.cache
+C:\Users\ra1857029\Desktop\Trab2Bim_atualizado\Trab2Bim\obj\Debug\Trab2Bim.csproj.CoreCompileInputs.cache
+C:\Users\ra1857029\Desktop\Trab2Bim_atualizado\Trab2Bim\obj\Debug\Trab2Bim.exe
+C:\Users\ra1857029\Desktop\Trab2Bim_atualizado\Trab2Bim\obj\Debug\Trab2Bim.pdb
+C:\Users\Luís Fernando\Documents\CTI\2º ANO\Curso Tecnico-2º ANO\C#\Trab2Bim_atualizado2\Trab2Bim\bin\Debug\Trab2Bim.exe.config
+C:\Users\Luís Fernando\Documents\CTI\2º ANO\Curso Tecnico-2º ANO\C#\Trab2Bim_atualizado2\Trab2Bim\bin\Debug\Trab2Bim.exe
+C:\Users\Luís Fernando\Documents\CTI\2º ANO\Curso Tecnico-2º ANO\C#\Trab2Bim_atualizado2\Trab2Bim\bin\Debug\Trab2Bim.pdb
+C:\Users\Luís Fernando\Documents\CTI\2º ANO\Curso Tecnico-2º ANO\C#\Trab2Bim_atualizado2\Trab2Bim\obj\Debug\Trab2Bim.csprojAssemblyReference.cache
+C:\Users\Luís Fernando\Documents\CTI\2º ANO\Curso Tecnico-2º ANO\C#\Trab2Bim_atualizado2\Trab2Bim\obj\Debug\Trab2Bim.frmJogo.resources
+C:\Users\Luís Fernando\Documents\CTI\2º ANO\Curso Tecnico-2º ANO\C#\Trab2Bim_atualizado2\Trab2Bim\obj\Debug\Trab2Bim.frmLogin.resources
+C:\Users\Luís Fernando\Documents\CTI\2º ANO\Curso Tecnico-2º ANO\C#\Trab2Bim_atualizado2\Trab2Bim\obj\Debug\Trab2Bim.frmMenu.resources
+C:\Users\Luís Fernando\Documents\CTI\2º ANO\Curso Tecnico-2º ANO\C#\Trab2Bim_atualizado2\Trab2Bim\obj\Debug\Trab2Bim.frmSplashScreen.resources
+C:\Users\Luís Fernando\Documents\CTI\2º ANO\Curso Tecnico-2º ANO\C#\Trab2Bim_atualizado2\Trab2Bim\obj\Debug\Trab2Bim.Properties.Resources.resources
+C:\Users\Luís Fernando\Documents\CTI\2º ANO\Curso Tecnico-2º ANO\C#\Trab2Bim_atualizado2\Trab2Bim\obj\Debug\Trab2Bim.csproj.GenerateResource.cache
+C:\Users\Luís Fernando\Documents\CTI\2º ANO\Curso Tecnico-2º ANO\C#\Trab2Bim_atualizado2\Trab2Bim\obj\Debug\Trab2Bim.csproj.CoreCompileInputs.cache
+C:\Users\Luís Fernando\Documents\CTI\2º ANO\Curso Tecnico-2º ANO\C#\Trab2Bim_atualizado2\Trab2Bim\obj\Debug\Trab2Bim.exe
+C:\Users\Luís Fernando\Documents\CTI\2º ANO\Curso Tecnico-2º ANO\C#\Trab2Bim_atualizado2\Trab2Bim\obj\Debug\Trab2Bim.pdb
+C:\Users\ra1857017\Desktop\Trab2Bim_atualizado_Final\Trab2Bim\bin\Debug\Trab2Bim.exe.config
+C:\Users\ra1857017\Desktop\Trab2Bim_atualizado_Final\Trab2Bim\bin\Debug\Trab2Bim.exe
+C:\Users\ra1857017\Desktop\Trab2Bim_atualizado_Final\Trab2Bim\bin\Debug\Trab2Bim.pdb
+C:\Users\ra1857017\Desktop\Trab2Bim_atualizado_Final\Trab2Bim\obj\Debug\Trab2Bim.csprojAssemblyReference.cache
+C:\Users\ra1857017\Desktop\Trab2Bim_atualizado_Final\Trab2Bim\obj\Debug\Trab2Bim.frmJogo.resources
+C:\Users\ra1857017\Desktop\Trab2Bim_atualizado_Final\Trab2Bim\obj\Debug\Trab2Bim.frmLogin.resources
+C:\Users\ra1857017\Desktop\Trab2Bim_atualizado_Final\Trab2Bim\obj\Debug\Trab2Bim.frmMenu.resources
+C:\Users\ra1857017\Desktop\Trab2Bim_atualizado_Final\Trab2Bim\obj\Debug\Trab2Bim.frmSplashScreen.resources
+C:\Users\ra1857017\Desktop\Trab2Bim_atualizado_Final\Trab2Bim\obj\Debug\Trab2Bim.Properties.Resources.resources
+C:\Users\ra1857017\Desktop\Trab2Bim_atualizado_Final\Trab2Bim\obj\Debug\Trab2Bim.csproj.GenerateResource.cache
+C:\Users\ra1857017\Desktop\Trab2Bim_atualizado_Final\Trab2Bim\obj\Debug\Trab2Bim.csproj.CoreCompileInputs.cache
+C:\Users\ra1857017\Desktop\Trab2Bim_atualizado_Final\Trab2Bim\obj\Debug\Trab2Bim.exe
+C:\Users\ra1857017\Desktop\Trab2Bim_atualizado_Final\Trab2Bim\obj\Debug\Trab2Bim.pdb
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\Trab2Bim.exe.config
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\Trab2Bim.exe
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\Trab2Bim.pdb
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\obj\Debug\Trab2Bim.csprojAssemblyReference.cache
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\obj\Debug\Trab2Bim.frmCadastro.resources
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\obj\Debug\Trab2Bim.frmJogo.resources
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\obj\Debug\Trab2Bim.frmLogin.resources
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\obj\Debug\Trab2Bim.frmMenuAdmin.resources
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\obj\Debug\Trab2Bim.frmSplashScreen.resources
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\obj\Debug\Trab2Bim.Properties.Resources.resources
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\obj\Debug\Trab2Bim.csproj.GenerateResource.cache
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\obj\Debug\Trab2Bim.csproj.CoreCompileInputs.cache
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\obj\Debug\Trab2Bim.exe
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\obj\Debug\Trab2Bim.pdb
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Web.Cors.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\obj\Debug\Trab2Bim.csproj.CopyComplete
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\obj\Debug\Trab2Bim.exe.config
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\obj\Debug\Trab2Bim.frmMenu.resources
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\netstandard.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.AppContext.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Collections.Concurrent.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Collections.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Collections.NonGeneric.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Collections.Specialized.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.ComponentModel.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.ComponentModel.Primitives.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Console.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Data.Common.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Diagnostics.Contracts.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Diagnostics.Debug.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Diagnostics.Process.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Diagnostics.Tools.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Diagnostics.Tracing.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Drawing.Primitives.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Dynamic.Runtime.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Globalization.Calendars.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Globalization.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Globalization.Extensions.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.IO.Compression.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.IO.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.IO.FileSystem.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.IO.IsolatedStorage.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.IO.Pipes.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Linq.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Linq.Expressions.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Linq.Parallel.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Linq.Queryable.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Net.Http.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Net.NameResolution.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Net.NetworkInformation.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Net.Ping.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Net.Primitives.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Net.Requests.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Net.Security.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Net.Sockets.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Net.WebSockets.Client.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Net.WebSockets.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.ObjectModel.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Reflection.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Reflection.Extensions.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Reflection.Primitives.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Resources.Reader.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Resources.ResourceManager.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Resources.Writer.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Runtime.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Runtime.Extensions.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Runtime.Handles.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Runtime.InteropServices.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Runtime.Numerics.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Security.Claims.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Security.Principal.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Security.SecureString.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Text.Encoding.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Text.RegularExpressions.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Threading.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Threading.Overlapped.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Threading.Tasks.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Threading.Thread.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Threading.ThreadPool.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Threading.Timer.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Xml.ReaderWriter.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Xml.XDocument.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Xml.XmlDocument.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Xml.XmlSerializer.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Xml.XPath.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\Npgsql.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Buffers.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Memory.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Numerics.Vectors.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Text.Encodings.Web.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Text.Json.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.ValueTuple.dll
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\Npgsql.pdb
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\Npgsql.xml
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Buffers.xml
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Memory.xml
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Numerics.Vectors.xml
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Text.Encodings.Web.xml
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Text.Json.xml
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\bin\Debug\System.ValueTuple.xml
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\obj\Debug\Trab2Bim.frmCadastroCartas.resources
+D:\documentos\Desktop\LUISA\CTI\2° ANO\C#\Trabalho_C#_4BIM\Trab2Bim\obj\Debug\Trab2Bim.frmConsultaCartas.resources
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\obj\Debug\Trab2Bim.exe
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\obj\Debug\Trab2Bim.pdb
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\Trab2Bim.exe.config
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\Trab2Bim.exe
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\Trab2Bim.pdb
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\netstandard.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.AppContext.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Collections.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Collections.Specialized.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.ComponentModel.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Console.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Data.Common.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Globalization.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.IO.Compression.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.IO.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.IO.FileSystem.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.IO.Pipes.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Linq.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Linq.Expressions.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Linq.Parallel.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Linq.Queryable.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Net.Http.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Net.NameResolution.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Net.Ping.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Net.Primitives.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Net.Requests.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Net.Security.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Net.Sockets.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Net.WebSockets.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.ObjectModel.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Reflection.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Resources.Reader.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Resources.Writer.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Runtime.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Runtime.Handles.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Security.Claims.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Security.Principal.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Security.SecureString.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Text.Encoding.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Threading.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Threading.Tasks.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Threading.Thread.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Threading.Timer.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Xml.XDocument.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Xml.XPath.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\Npgsql.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Buffers.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Memory.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Text.Json.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.ValueTuple.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Web.Cors.dll
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\Npgsql.pdb
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\Npgsql.xml
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Buffers.xml
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Memory.xml
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Text.Json.xml
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\bin\Debug\System.ValueTuple.xml
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\obj\Debug\Trab2Bim.csprojAssemblyReference.cache
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\obj\Debug\Trab2Bim.exe.config
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\obj\Debug\Trab2Bim.frmCadastro.resources
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\obj\Debug\Trab2Bim.frmCadastroCartas.resources
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\obj\Debug\Trab2Bim.frmConsultaCartas.resources
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\obj\Debug\Trab2Bim.frmJogo.resources
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\obj\Debug\Trab2Bim.frmLogin.resources
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\obj\Debug\Trab2Bim.frmMenu.resources
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\obj\Debug\Trab2Bim.frmMenuAdmin.resources
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\obj\Debug\Trab2Bim.frmSplashScreen.resources
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\obj\Debug\Trab2Bim.Properties.Resources.resources
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\obj\Debug\Trab2Bim.csproj.GenerateResource.cache
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\obj\Debug\Trab2Bim.csproj.CopyComplete
+C:\Users\leah_\Desktop\Trab_4°BIM\Trab2Bim\obj\Debug\Trab2Bim.frmCarta.resources
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\Trab2Bim.exe.config
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\Trab2Bim.exe
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\Trab2Bim.pdb
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\netstandard.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.AppContext.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Collections.Concurrent.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Collections.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Collections.NonGeneric.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Collections.Specialized.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.ComponentModel.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.ComponentModel.Primitives.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Console.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Data.Common.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Diagnostics.Contracts.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Diagnostics.Debug.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Diagnostics.Process.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Diagnostics.Tools.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Diagnostics.Tracing.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Drawing.Primitives.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Dynamic.Runtime.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Globalization.Calendars.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Globalization.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Globalization.Extensions.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.IO.Compression.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.IO.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.IO.FileSystem.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.IO.IsolatedStorage.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.IO.Pipes.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Linq.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Linq.Expressions.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Linq.Parallel.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Linq.Queryable.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Net.Http.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Net.NameResolution.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Net.NetworkInformation.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Net.Ping.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Net.Primitives.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Net.Requests.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Net.Security.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Net.Sockets.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Net.WebSockets.Client.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Net.WebSockets.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.ObjectModel.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Reflection.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Reflection.Extensions.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Reflection.Primitives.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Resources.Reader.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Resources.ResourceManager.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Resources.Writer.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Runtime.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Runtime.Extensions.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Runtime.Handles.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Runtime.InteropServices.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Runtime.Numerics.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Security.Claims.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Security.Principal.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Security.SecureString.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Text.Encoding.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Text.RegularExpressions.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Threading.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Threading.Overlapped.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Threading.Tasks.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Threading.Thread.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Threading.ThreadPool.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Threading.Timer.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Xml.ReaderWriter.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Xml.XDocument.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Xml.XmlDocument.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Xml.XmlSerializer.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Xml.XPath.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\Npgsql.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Buffers.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Memory.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Numerics.Vectors.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Text.Encodings.Web.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Text.Json.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.ValueTuple.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Web.Cors.dll
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\Npgsql.pdb
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\Npgsql.xml
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Buffers.xml
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Memory.xml
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Numerics.Vectors.xml
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Text.Encodings.Web.xml
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Text.Json.xml
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.ValueTuple.xml
+D:\Trab_4°BIM_atualizado\Trab2Bim\obj\Debug\Trab2Bim.csprojAssemblyReference.cache
+D:\Trab_4°BIM_atualizado\Trab2Bim\obj\Debug\Trab2Bim.exe.config
+D:\Trab_4°BIM_atualizado\Trab2Bim\obj\Debug\Trab2Bim.frmCadastro.resources
+D:\Trab_4°BIM_atualizado\Trab2Bim\obj\Debug\Trab2Bim.frmCadastroCartas.resources
+D:\Trab_4°BIM_atualizado\Trab2Bim\obj\Debug\Trab2Bim.frmCarta.resources
+D:\Trab_4°BIM_atualizado\Trab2Bim\obj\Debug\Trab2Bim.frmConsultaCartas.resources
+D:\Trab_4°BIM_atualizado\Trab2Bim\obj\Debug\Trab2Bim.frmJogo.resources
+D:\Trab_4°BIM_atualizado\Trab2Bim\obj\Debug\Trab2Bim.frmLogin.resources
+D:\Trab_4°BIM_atualizado\Trab2Bim\obj\Debug\Trab2Bim.frmMenu.resources
+D:\Trab_4°BIM_atualizado\Trab2Bim\obj\Debug\Trab2Bim.frmMenuAdmin.resources
+D:\Trab_4°BIM_atualizado\Trab2Bim\obj\Debug\Trab2Bim.frmSplashScreen.resources
+D:\Trab_4°BIM_atualizado\Trab2Bim\obj\Debug\Trab2Bim.Properties.Resources.resources
+D:\Trab_4°BIM_atualizado\Trab2Bim\obj\Debug\Trab2Bim.csproj.GenerateResource.cache
+D:\Trab_4°BIM_atualizado\Trab2Bim\obj\Debug\Trab2Bim.csproj.CoreCompileInputs.cache
+D:\Trab_4°BIM_atualizado\Trab2Bim\obj\Debug\Trab2Bim.csproj.CopyComplete
+D:\Trab_4°BIM_atualizado\Trab2Bim\obj\Debug\Trab2Bim.exe
+D:\Trab_4°BIM_atualizado\Trab2Bim\obj\Debug\Trab2Bim.pdb
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\Trab2Bim.exe.config
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\Trab2Bim.exe
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\Trab2Bim.pdb
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\Microsoft.Win32.Primitives.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\netstandard.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.AppContext.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Collections.Concurrent.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Collections.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Collections.NonGeneric.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Collections.Specialized.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.ComponentModel.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.ComponentModel.Primitives.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.ComponentModel.TypeConverter.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Console.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Data.Common.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Diagnostics.Contracts.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Diagnostics.Debug.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Diagnostics.Process.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Diagnostics.StackTrace.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Diagnostics.Tools.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Diagnostics.TraceSource.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Diagnostics.Tracing.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Drawing.Primitives.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Dynamic.Runtime.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Globalization.Calendars.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Globalization.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Globalization.Extensions.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.IO.Compression.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.IO.Compression.ZipFile.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.IO.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.IO.FileSystem.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.IO.FileSystem.Watcher.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.IO.IsolatedStorage.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.IO.MemoryMappedFiles.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.IO.Pipes.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Linq.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Linq.Expressions.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Linq.Parallel.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Linq.Queryable.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Net.Http.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Net.NameResolution.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Net.NetworkInformation.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Net.Ping.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Net.Primitives.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Net.Requests.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Net.Security.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Net.Sockets.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Net.WebHeaderCollection.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Net.WebSockets.Client.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Net.WebSockets.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.ObjectModel.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Reflection.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Reflection.Extensions.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Reflection.Primitives.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Resources.Reader.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Resources.ResourceManager.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Resources.Writer.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Runtime.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Runtime.Extensions.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Runtime.Handles.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Runtime.InteropServices.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Runtime.Numerics.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Runtime.Serialization.Formatters.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Runtime.Serialization.Json.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Runtime.Serialization.Primitives.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Runtime.Serialization.Xml.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Security.Claims.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Security.Cryptography.Algorithms.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Security.Cryptography.Csp.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Security.Cryptography.Encoding.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Security.Cryptography.Primitives.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Security.Principal.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Security.SecureString.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Text.Encoding.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Text.Encoding.Extensions.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Text.RegularExpressions.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Threading.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Threading.Overlapped.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Threading.Tasks.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Threading.Tasks.Parallel.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Threading.Thread.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Threading.ThreadPool.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Threading.Timer.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Xml.ReaderWriter.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Xml.XDocument.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Xml.XmlDocument.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Xml.XmlSerializer.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Xml.XPath.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Xml.XPath.XDocument.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\Npgsql.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Buffers.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Memory.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Numerics.Vectors.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Text.Encodings.Web.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Text.Json.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.ValueTuple.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Web.Cors.dll
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\Npgsql.pdb
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\Npgsql.xml
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Buffers.xml
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Memory.xml
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Numerics.Vectors.xml
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Text.Encodings.Web.xml
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Text.Json.xml
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Trab_4°BIM_atualizado\Trab2Bim\bin\Debug\System.ValueTuple.xml
+E:\Trab_4°BIM_atualizado\Trab2Bim\obj\Debug\Trab2Bim.csprojAssemblyReference.cache
+E:\Trab_4°BIM_atualizado\Trab2Bim\obj\Debug\Trab2Bim.exe.config
+E:\Trab_4°BIM_atualizado\Trab2Bim\obj\Debug\Trab2Bim.frmCadastro.resources
+E:\Trab_4°BIM_atualizado\Trab2Bim\obj\Debug\Trab2Bim.frmCadastroCartas.resources
+E:\Trab_4°BIM_atualizado\Trab2Bim\obj\Debug\Trab2Bim.frmCarta.resources
+E:\Trab_4°BIM_atualizado\Trab2Bim\obj\Debug\Trab2Bim.frmConsultaCartas.resources
+E:\Trab_4°BIM_atualizado\Trab2Bim\obj\Debug\Trab2Bim.frmJogo.resources
+E:\Trab_4°BIM_atualizado\Trab2Bim\obj\Debug\Trab2Bim.frmLogin.resources
+E:\Trab_4°BIM_atualizado\Trab2Bim\obj\Debug\Trab2Bim.frmMenu.resources
+E:\Trab_4°BIM_atualizado\Trab2Bim\obj\Debug\Trab2Bim.frmMenuAdmin.resources
+E:\Trab_4°BIM_atualizado\Trab2Bim\obj\Debug\Trab2Bim.frmSplashScreen.resources
+E:\Trab_4°BIM_atualizado\Trab2Bim\obj\Debug\Trab2Bim.Properties.Resources.resources
+E:\Trab_4°BIM_atualizado\Trab2Bim\obj\Debug\Trab2Bim.csproj.GenerateResource.cache
+E:\Trab_4°BIM_atualizado\Trab2Bim\obj\Debug\Trab2Bim.csproj.CoreCompileInputs.cache
+E:\Trab_4°BIM_atualizado\Trab2Bim\obj\Debug\Trab2Bim.csproj.CopyComplete
+E:\Trab_4°BIM_atualizado\Trab2Bim\obj\Debug\Trab2Bim.exe
+E:\Trab_4°BIM_atualizado\Trab2Bim\obj\Debug\Trab2Bim.pdb
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\Trab2Bim.exe.config
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\Trab2Bim.exe
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\Trab2Bim.pdb
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\netstandard.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.AppContext.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Collections.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Collections.Specialized.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.ComponentModel.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Console.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Data.Common.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Globalization.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.IO.Compression.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.IO.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.IO.FileSystem.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.IO.Pipes.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Linq.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Linq.Expressions.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Linq.Parallel.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Linq.Queryable.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Net.Http.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Net.NameResolution.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Net.Ping.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Net.Primitives.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Net.Requests.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Net.Security.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Net.Sockets.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Net.WebSockets.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.ObjectModel.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Reflection.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Resources.Reader.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Resources.Writer.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Runtime.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Runtime.Handles.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Security.Claims.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Security.Principal.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Security.SecureString.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Text.Encoding.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Threading.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Threading.Tasks.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Threading.Thread.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Threading.Timer.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Xml.XDocument.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Xml.XPath.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\Npgsql.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Buffers.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Memory.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Text.Json.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.ValueTuple.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Web.Cors.dll
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\Npgsql.pdb
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\Npgsql.xml
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Buffers.xml
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Memory.xml
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Text.Json.xml
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\bin\Debug\System.ValueTuple.xml
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\obj\Debug\Trab2Bim.csprojAssemblyReference.cache
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\obj\Debug\Trab2Bim.exe.config
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\obj\Debug\Trab2Bim.frmCadastro.resources
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\obj\Debug\Trab2Bim.frmCadastroCartas.resources
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\obj\Debug\Trab2Bim.frmCarta.resources
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\obj\Debug\Trab2Bim.frmConsultaCartas.resources
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\obj\Debug\Trab2Bim.frmJogo.resources
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\obj\Debug\Trab2Bim.frmLogin.resources
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\obj\Debug\Trab2Bim.frmMenu.resources
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\obj\Debug\Trab2Bim.frmMenuAdmin.resources
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\obj\Debug\Trab2Bim.frmSplashScreen.resources
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\obj\Debug\Trab2Bim.Properties.Resources.resources
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\obj\Debug\Trab2Bim.csproj.GenerateResource.cache
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\obj\Debug\Trab2Bim.csproj.CopyComplete
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\obj\Debug\Trab2Bim.exe
+C:\Users\leah_\Desktop\Trab_C#_4°BIM (19-11)\Trab2Bim\obj\Debug\Trab2Bim.pdb

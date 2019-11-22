@@ -1,0 +1,22 @@
+CREATE TABLE usuarios
+(
+     id_us SERIAL NOT NULL PRIMARY KEY,
+     nome CHARACTER VARYING NOT NULL,
+     senha CHARACTER VARYING NOT NULL,
+     email CHARACTER VARYING NOT NULL,
+     vitorias INTEGER NOT NULL,
+     excluido BOOLEAN NOT NULL
+
+);
+
+CREATE TABLE cartas
+(
+     id_card SERIAL NOT NULL PRIMARY KEY,
+     elemento CHARACTER VARYING NOT NULL,
+     numero_at INTEGER NOT NULL,
+     raio_at INTEGER NOT NULL,
+     tipo CHARACTER VARYING NOT NULL,
+     img CHARACTER VARYING,
+     excluido BOOLEAN NOT NULL
+);
+
