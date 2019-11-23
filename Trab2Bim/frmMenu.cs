@@ -29,8 +29,7 @@ namespace Trab2Bim
         //opções do item Menu
         private void btnLogoff_Click(object sender, EventArgs e)
         {
-            this.Close();
-            this.Dispose();
+			this.Hide();
             frmLogin.Show();
         }
 
@@ -52,13 +51,12 @@ namespace Trab2Bim
         //opções do item Jogo
         private void btnTrunfo_Click(object sender, EventArgs e)
         {
-            picMenu.Size = new Size(360, 220);
+            /*picMenu.Size = new Size(360, 220);
             btnIniciar.Size = new Size(360, 29);
             picMenu.Location = new Point(12, 68);
-            btnIniciar.Location = new Point(12, 310);
+            btnIniciar.Location = new Point(12, 310);*/
             btnIniciar.Text = "&Iniciar Trunfo Elementar";
             btnIniciar.Visible = true;
-
         }
 
         //botão do Menu

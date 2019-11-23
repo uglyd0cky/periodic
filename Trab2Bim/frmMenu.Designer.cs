@@ -97,14 +97,14 @@
 			// btnLogoff
 			// 
 			this.btnLogoff.Name = "btnLogoff";
-			this.btnLogoff.Size = new System.Drawing.Size(139, 26);
+			this.btnLogoff.Size = new System.Drawing.Size(224, 26);
 			this.btnLogoff.Text = "&Logoff";
 			this.btnLogoff.Click += new System.EventHandler(this.btnLogoff_Click);
 			// 
 			// btnSair
 			// 
 			this.btnSair.Name = "btnSair";
-			this.btnSair.Size = new System.Drawing.Size(139, 26);
+			this.btnSair.Size = new System.Drawing.Size(224, 26);
 			this.btnSair.Text = "&Sair";
 			this.btnSair.Click += new System.EventHandler(this.btnSair_Click);
 			// 
@@ -120,8 +120,9 @@
 			// btnTrunfo
 			// 
 			this.btnTrunfo.Name = "btnTrunfo";
-			this.btnTrunfo.Size = new System.Drawing.Size(221, 26);
+			this.btnTrunfo.Size = new System.Drawing.Size(224, 26);
 			this.btnTrunfo.Text = "&Trunfo Elementar";
+			this.btnTrunfo.Click += new System.EventHandler(this.btnTrunfo_Click);
 			// 
 			// frmMenu
 			// 
