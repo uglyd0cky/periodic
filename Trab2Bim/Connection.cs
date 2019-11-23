@@ -11,7 +11,7 @@ namespace Trab2Bim
 	class Connection
 	{
 		private NpgsqlConnection c;
-		private string sql;
+		//private string sql;
 
         //construtor
         public Connection()
@@ -68,9 +68,7 @@ namespace Trab2Bim
         //checar se o usuário é ADMINISTRADOR
 		public bool IsAdm(string nome)
 		{
-			if (nome == "ADM")
-				return true;
-
+			if (nome == "ADM") return true;
 			return false;
 		}
 

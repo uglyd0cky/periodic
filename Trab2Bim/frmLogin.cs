@@ -17,7 +17,7 @@ namespace Trab2Bim
 		Connection c = new Connection();
 
         //form SplashScreen
-        private Form frmSplash, frmCadastro;
+        private Form frmSplash, frmCadastro, fMenu, Menu;
 
         //conexão com o banco de dados
 
@@ -26,7 +26,9 @@ namespace Trab2Bim
         {
             this.frmSplash = frmSplash;
 			this.frmCadastro = new frmCadastro(this);
-            InitializeComponent();
+			fMenu = new frmMenuAdmin(this, this.frmSplash);
+			Menu = new frmMenu(this, this.frmSplash);
+			InitializeComponent();
             btnSair.Focus();
         }
 
@@ -40,13 +42,12 @@ namespace Trab2Bim
 				bool x = c.login(nome, senha);
 				if(x && c.IsAdm(nome))
 				{
-					frmMenuAdmin Menu = new frmMenuAdmin(this, this.frmSplash);
-					Menu.Show();
+					fMenu.Show();
 					this.Hide();
 				}
 				else if(x)
 				{
-					frmMenu Menu = new frmMenu(this, this.frmSplash);
+					
 					Menu.Show();
 					this.Hide();
 				}

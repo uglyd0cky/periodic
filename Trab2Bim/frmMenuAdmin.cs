@@ -34,8 +34,7 @@ namespace Trab2Bim
         //opções do item Menu
         private void btnLogoff_Click(object sender, EventArgs e)
         {
-            this.Close();
-            this.Dispose();
+            this.Hide();
             frmLogin.Show();
         }
 

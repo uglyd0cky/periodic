@@ -171,8 +171,7 @@ namespace Trab2Bim
         //botão Retornar
         private void btnRetornar_Click(object sender, EventArgs e)
         {
-            this.Close();
-            this.Dispose();
+            this.Hide();
             frmMenu.Show();
         }
     }
